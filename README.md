@@ -7,7 +7,7 @@ I like clefairy. Sounds like a good starter to me, no? A 'pink' version was alle
 
 ## Features
 - starter is now clefairy
-- moves learned by level are not more similar to Gen III as gen I was unbecoming of a starter.
+- moves learned by level are now similar to Gen III rather than gen I, as it was unbecoming of a starter
   - Encore, and Follow Me were omitted 
   - Cosmic power was replaced with Amnesia
   - Meteor Mash was replaced with Body Slam
