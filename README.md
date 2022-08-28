@@ -14,3 +14,7 @@ I like clefairy. Sounds like a good starter to me, no? A 'pink' version was alle
   - Moonlight with Recover.
 - the 'talk to that pokemon following you to see how its doing' images were replaced with clefairy
   - note: I'm not an artist, so the actual eyes/mouth from pikachu were retained and the clefairy's body has no variations 
+  - it's incomplete, there are visual issues in some situations.
+
+## Incomplete/buggy features
+  - clefairy ... still says 'pikachu' when you talk to it.
